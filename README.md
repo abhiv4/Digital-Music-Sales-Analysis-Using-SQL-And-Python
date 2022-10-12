@@ -20,9 +20,12 @@ The goal of this project is to go over the company dataset and answer some busin
 5. Recommendations
 
 ## Libraries used
+
+```
 - sqlite3
 - pandas
 - numpy
 - seaborn
 - matplotlib
 - matplotlib.pyplot
+```
