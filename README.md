@@ -1,4 +1,4 @@
-# Digital-Music-Sales-Analysis-Using-SQL-And-Python
+# Digital Music Sales Analysis Using SQL & Python
 
 ## Aim of the project
 The goal of this project is to go over the company dataset and answer some business questions to help them make more informed decisions.
